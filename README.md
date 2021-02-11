@@ -1,1 +1,1 @@
-"# rinzavsestran" 
+www.racunalnistvo-in-informatika-za-vse.si
