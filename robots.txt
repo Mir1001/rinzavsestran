@@ -1,0 +1,4 @@
+# robotstxt.org/
+
+Sitemap: https://www.racunalnistvo-in-informatika-za-vse.si/sitemap.xml
+User-agent: *

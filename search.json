@@ -1,0 +1,85 @@
+[
+  
+  
+  
+    {
+      "title"    : "Računalništvo in informatika za vse",
+      "tags"     : "vsi",
+      "categories" : "kako",
+      "url"      : "/rinzavse.html",
+      "date"     : "19.01.2021"
+    } ,
+  
+    {
+      "title"    : "Zakaj je računalništvo pomembno?",
+      "tags"     : "vsi, dijaki, and starši",
+      "categories" : "zakaj",
+      "url"      : "/10razlogovzakajrin.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Odzivi in pozivi v javnosti",
+      "tags"     : "vsi",
+      "categories" : "zakaj",
+      "url"      : "/odzivi.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Računalništvo v šole!",
+      "tags"     : "vsi",
+      "categories" : "kako",
+      "url"      : "/spremembe.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Digitalni svet - sopotnik",
+      "tags"     : "vsi and starši",
+      "categories" : "zakaj",
+      "url"      : "/digitalnisvet.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Brez nepotrebnega sedenja pred zasloni",
+      "tags"     : "vsi, učitelji, otroci, dijaki, and učenci",
+      "categories" : "kako",
+      "url"      : "/manjcasapredzaslonom.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Kaj pravi stroka?",
+      "tags"     : "vsi",
+      "categories" : "zakaj",
+      "url"      : "/stroka.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Računalniško mišljenje",
+      "tags"     : "vsi and učitelji",
+      "categories" : "miti",
+      "url"      : "/racunalniskomisljenjezavse.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Računalništvo in informatika ter digitalne kompetence",
+      "tags"     : "vsi and učitelji",
+      "categories" : "miti",
+      "url"      : "/digitalnekompetencenisodovolj.html",
+      "date"     : "12.01.2021"
+    } ,
+  
+    {
+      "title"    : "Ali digitalni domorodci res obstajajo?",
+      "tags"     : "vsi",
+      "categories" : "miti",
+      "url"      : "/digitalnidomorodci.html",
+      "date"     : "12.01.2021"
+    } 
+  
+]
